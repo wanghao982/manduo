@@ -9,5 +9,7 @@ public class TestClass2 {
 		System.out.println(json.serialize("<M>"));
 		
 		System.err.println("VVV");
+		
+		System.out.println("MMM");
 	}
 }
