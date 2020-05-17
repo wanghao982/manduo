@@ -10,6 +10,10 @@ public class TestClass2 {
 		
 		System.err.println("VVV");
 		
+
 		System.out.println("MMM");
+
+		System.out.println("HHH");
+
 	}
 }
