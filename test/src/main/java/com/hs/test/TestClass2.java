@@ -14,6 +14,7 @@ public class TestClass2 {
 		System.out.println("MMM");
 
 		System.out.println("HHH");
+		System.out.println("kkk");
 
 	}
 }
